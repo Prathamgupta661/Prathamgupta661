@@ -50,8 +50,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Prathamgupta661/count.svg?"  />
-</div>
-
-###
